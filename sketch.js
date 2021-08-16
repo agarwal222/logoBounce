@@ -18,7 +18,7 @@ function preload() {
 
 function setup() {
   // change the (width and height respectively as per required canvas dimensions)
-  createCanvas(1000, 700);
+  createCanvas(1920, 1080);
   x = random(300);
   y = random(100);
   xspeed = 5;
